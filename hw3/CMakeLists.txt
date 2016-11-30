@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( SignsRecognition )
+find_package( OpenCV REQUIRED )
+add_executable( SignsRecognition main.cpp )
+target_link_libraries( SignsRecognition ${OpenCV_LIBS} )
+SET(CMAKE_CXX_FLAGS "-std=c++0x -g")

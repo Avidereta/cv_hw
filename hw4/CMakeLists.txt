@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( AbandonmentObjectDetection )
+find_package( OpenCV REQUIRED )
+add_executable( AbandonmentObjectDetection main.cpp )
+target_link_libraries( AbandonmentObjectDetection ${OpenCV_LIBS} )
+SET(CMAKE_CXX_FLAGS "-std=c++0x -g")

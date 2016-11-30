@@ -1,0 +1,2 @@
+RoadSignsComposite1.JPG 10 RoadSignParking RoadSignNoStraight RoadSignNoRightTurn Unknown RoadSignNoLeftTurn RoadSignGoStraight RoadSignGoRight RoadSignGoStraight RoadSignYield RoadSignGoLeft
+RoadSignsComposite2.JPG 10 Unknown RoadSignYield RoadSignParking RoadSignNoStraight RoadSignNoRightTurn Unknown RoadSignNoLeftTurn RoadSignGoStraight RoadSignGoRight Unknown
